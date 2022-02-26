@@ -1,0 +1,5 @@
+X = [8,5,9,0]
+X = [i for i in X if i != 0]
+print(X)
+len(X)
+print(len(X))
